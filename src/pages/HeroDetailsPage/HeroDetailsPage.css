@@ -1,0 +1,34 @@
+.update_link {
+  margin-bottom: 20px;
+  display: flex;
+  justify-content: space-around;
+}
+.update__btn {
+  padding: 7px 12px;
+  border-radius: 20px;
+  background-color: #c9c9c95c;
+  border: none;
+}
+
+.update__btn:hover {
+  background-color: #c9c9c9cf;
+}
+
+.container_about_hero {
+  display: flex;
+  justify-content: space-around;
+}
+.about_hero {
+  max-width: 75%;
+}
+.about_hero--title {
+  font-weight: 800;
+  font-size: 15px;
+  margin-bottom: 5px;
+  font-family: monospace;
+}
+.about_hero--info {
+  font-family: monospace;
+  font-size: 17px;
+  margin-bottom: 10px;
+}
