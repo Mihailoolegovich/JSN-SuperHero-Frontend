@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/JSN-SuperHero-Frontend/static/css/main.8e58e6d6.css",
+    "main.js": "/JSN-SuperHero-Frontend/static/js/main.77afbe9a.js",
+    "static/media/delete.png": "/JSN-SuperHero-Frontend/static/media/delete.ced12f15b69b232e1e42.png",
+    "index.html": "/JSN-SuperHero-Frontend/index.html",
+    "main.8e58e6d6.css.map": "/JSN-SuperHero-Frontend/static/css/main.8e58e6d6.css.map",
+    "main.77afbe9a.js.map": "/JSN-SuperHero-Frontend/static/js/main.77afbe9a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8e58e6d6.css",
+    "static/js/main.77afbe9a.js"
+  ]
+}
